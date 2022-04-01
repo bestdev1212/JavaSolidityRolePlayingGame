@@ -1,8 +1,8 @@
-import {it} from "truffle/build/416.bundled";
 
 
-let Game = artifacts.require("./Game.sol");
-    let Character = artifacts.require("./Character.sol");
+
+   let Game = artifacts.require("./Game.sol");
+   let Character = artifacts.require("./Character.sol");
 
     const PROVIDED_NAME = "TEST";
 
