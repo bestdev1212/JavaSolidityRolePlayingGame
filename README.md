@@ -1,2 +1,1 @@
-# Solidity-RPG
-solidity based rpg game
+# Java + Solidity Role-Playing Game
